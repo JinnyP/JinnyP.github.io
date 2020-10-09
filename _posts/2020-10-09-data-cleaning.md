@@ -8,6 +8,7 @@ excerpt: "Data Cleaning with Python and Pandas"
 mathjax: "true"
 ---
 
+
 ## Description
 Data Scientists can spend up to 80% of their time cleaning data but it is necessary work to ensure a good functioning machine learning model. 
 
