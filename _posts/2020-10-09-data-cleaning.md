@@ -197,21 +197,21 @@ df.columns
 Now we can start to answer some of our questions, **what are my features?** It is easy to infer this from the column names.
 
 - **<code>PID</code>**: Property ID
-- <code>**ST_NUM**</code>: Street number
-- <code>**ST_NAME**</code>: Street name
-- <code>**OWN_OCCUPIED**</code>: Is the residence owner occupied
-- <code>**NUM_BEDROOMS**</code>: Number of bedrooms
-- <code>**NUM_BATH**</code>: Number of bathrooms
-- <code>**SQ_FT**</code>: Square footage of the property
+- **<code>ST_NUM</code>**: Street number
+- **<code>ST_NAME</code>**: Street name
+- **<code>OWN_OCCUPIED</code>**: Is the residence owner occupied
+- **<code>NUM_BEDROOMS</code>**: Number of bedrooms
+- **<code>NUM_BATH</code>**: Number of bathrooms
+- **<code>SQ_FT</code>**: Square footage of the property
 
 We can also answer, **what are the expected types?**
-- <code>**PID**</code>: float or int (some sort of numeric type)
-- <code>**ST_NUM**</code>: float or int (some sort of numeric type)
-- <code>**ST_NAME**</code>: string
-- <code>**OWN_OCCUPIED**</code>: string where Y ("Yes") or N ("No")
-- <code>**NUM_BEDROOMS**</code>: float or int(some sort of numeric type)
-- <code>**NUM_BATH**</code>: float or int (some sort of numeric type)
-- <code>**SQ_FT**</code>: float or int (some sort of numeric type)
+- **<code>PID</code>**: float or int (some sort of numeric type)
+- **<code>ST_NUM</code>**: float or int (some sort of numeric type)
+- **<code>ST_NAME</code>**: string
+- **<code>OWN_OCCUPIED</code>**: string where Y ("Yes") or N ("No")
+- **<code>NUM_BEDROOMS</code>**: float or int(some sort of numeric type)
+- **<code>NUM_BATH</code>**: float or int (some sort of numeric type)
+- **<code>SQ_FT</code>**: float or int (some sort of numeric type)
 
 When we look at what the actual data types are, some of them don't match. 
 
