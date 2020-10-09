@@ -196,7 +196,7 @@ df.columns
 
 Now we can start to answer some of our questions, **what are my features?** It is easy to infer this from the column names.
 
-- <code>**PID**</code>: Property ID
+- **<code>PID</code>**: Property ID
 - <code>**ST_NUM**</code>: Street number
 - <code>**ST_NAME**</code>: Street name
 - <code>**OWN_OCCUPIED**</code>: Is the residence owner occupied
