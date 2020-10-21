@@ -276,7 +276,7 @@ What missing values can we detect with Pandas? Let's take a look at our raw data
 | 100008000 | 213    | TREMONT    | Y            | --           | 1        |       |
 | 100009000 | 215    | TREMONT    | Y            | na           | 2        | 1800  |
 
-In the "Stree Number" column there is an empty cell in the 3rd row and an "NA" value in the 7th row. 
+In the "Street Number" column there is an empty cell in the 3rd row and an "NA" value in the 7th row. 
 
 These are clearly both missing values. Let's see how Pandas deals with these.
 
