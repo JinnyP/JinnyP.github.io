@@ -4,8 +4,8 @@ date: 2020-10-21
 tags: [data science, anomaly detection, scikit-learn, outlier]
 header:
   image: 
-excerpt: "Anomaly Detection Using Machine Learning"
+excerpt: "Coming Soon"
 mathjax: "true"
 ---
 
-Coming soon
+Work in Progress
