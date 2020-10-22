@@ -4,6 +4,7 @@ date: 2020-10-09
 tags: [data cleaning, data science, messy data, pandas]
 header:
   image: "/images/dose-juice-sTPy-oeA3h0-unsplash(2).jpg"
+  teaser: "/images/dose-juice-sTPy-oeA3h0-unsplash(2).jpg"
 excerpt: "Data Cleaning with Python and Pandas"
 mathjax: "true"
 ---
